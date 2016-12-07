@@ -12,7 +12,7 @@
 
 //Init configuration
 -(void) initBezirkAuto{
-    NSLog(@"Init called library working");
+    NSLog(@"Init called library working complete");
 }
 
 @end
