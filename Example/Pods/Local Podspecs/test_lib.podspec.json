@@ -1,0 +1,22 @@
+{
+  "name": "test_lib",
+  "version": "0.1.0",
+  "summary": "A short description of test_lib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/test_lib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "https://github.com/Bezirk-Bosch/Monro-iOS": "pradeep4411@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/test_lib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "test_lib/Classes/**/*"
+}
