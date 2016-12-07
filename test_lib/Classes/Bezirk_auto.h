@@ -17,10 +17,6 @@ typedef enum
 } Command;
 
 
-@interface Bezirk_auto : NSObject
-{
-    id<BezirkOBD2Delegate> _delegate;
-}
 @property (nonatomic,strong) id delegate;
 
 -(void) initBezirkAuto;
