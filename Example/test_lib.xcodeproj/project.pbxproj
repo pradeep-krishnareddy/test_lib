@@ -151,6 +151,7 @@
 				ORGANIZATIONNAME = "https://github.com/Bezirk-Bosch/Monro-iOS";
 				TargetAttributes = {
 					6003F5AD195388D20070C39A = {
+						DevelopmentTeam = 4K483LV8ZL;
 						TestTargetID = 6003F589195388D20070C39A;
 					};
 				};
@@ -332,6 +333,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0F010386079F9C54F9C9E390 /* Pods-test_lib_Tests.debug.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 4K483LV8ZL;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -355,6 +357,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 01375D3A14B40E56D4175A21 /* Pods-test_lib_Tests.release.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 4K483LV8ZL;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
