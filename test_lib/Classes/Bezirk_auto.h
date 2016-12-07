@@ -7,8 +7,6 @@
 
 #import <Foundation/Foundation.h>
 
-
-
 typedef enum
 {
     rpm = 0,
@@ -16,6 +14,7 @@ typedef enum
     temperature,
 } Command;
 
+@interface Bezirk_auto : NSObject
 
 @property (nonatomic,strong) id delegate;
 

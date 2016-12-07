@@ -7,19 +7,12 @@
 
 #import "Bezirk_auto.h"
 
-
-
-
-
 @implementation Bezirk_auto
-{
 
-}
 
 //Init configuration
 -(void) initBezirkAuto{
-    NSLog("Bezirk auto init from library");
+    NSLog("Init called library working");
 }
-
 
 @end
